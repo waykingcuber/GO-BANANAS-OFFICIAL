@@ -16,5 +16,6 @@ GhostMonke
 Trigger Platforms
 X-Ray [NW]
 SlingShot
+TagGun
 
 There will be more mods added in the future but until then these mods are what I have.
