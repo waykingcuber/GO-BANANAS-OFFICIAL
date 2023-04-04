@@ -2,7 +2,7 @@ This Dll file is a mod menu for gorilla tag vr the menu comes with a few mods bu
 This mod menu contains these mods.
 
 AirStrike 
-CHeckpoint [D]
+Checkpoint [D]
 Invis Platforms
 Invis Trigger Platforms
 Long Arms
@@ -17,5 +17,10 @@ Trigger Platforms
 X-Ray [NW]
 SlingShot
 TagGun
+PBBV Walk
+Turn Off Tag Freeze [D]
+Slide Control
+Speed Boost
+Fly
 
 There will be more mods added in the future but until then these mods are what I have.
