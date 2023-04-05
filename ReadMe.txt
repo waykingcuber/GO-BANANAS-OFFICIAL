@@ -22,5 +22,7 @@ Turn Off Tag Freeze [D]
 Slide Control
 Speed Boost
 Fly
+ESP [D?]
+StealIdentity [D]
 
-There will be more mods added in the future but until then these mods are what I have.
+I have added more mods if you have any problems with them tell me and I wil try to fix it. But if you get yourself banned while using this menu that is not my fault because you are using the menu in a non modded lobby so be careful with this menu.
