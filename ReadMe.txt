@@ -16,11 +16,11 @@ GhostMonke
 Trigger Platforms
 X-Ray [NW]
 SlingShot
-TagGun
-PBBV Walk
+TagGun [NW]
+PBBV Walk [NW]
 Turn Off Tag Freeze [D]
 Slide Control
-Speed Boost
+Speed Boost [NW]
 Fly
 ESP [D?]
 StealIdentity [D]
