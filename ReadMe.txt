@@ -12,7 +12,7 @@ RGB Platforms
 Thumb Platforms
 Sticky Platforms
 TP Gun [D?]
-GhostMonke
+GhostMonke [Trigger]
 Trigger Platforms
 X-Ray [NW]
 SlingShot
