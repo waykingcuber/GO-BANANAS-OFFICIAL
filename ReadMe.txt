@@ -16,18 +16,13 @@ GhostMonke [T]
 Trigger Platforms
 X-Ray [NW]
 SlingShot
-TagGun [NW]
-PBBV Walk [NW]
-Turn Off Tag Freeze [D]
-Slide Control
-Speed Boost [NW]
 Fly
 ESP [D?]
 StealIdentity [D]
-DuckSpammer
-KeySpammer
-Little Monke [CS]
-Big Monke [CS]
+DuckSpammer [TEST]
+KeySpammer [TEST]
+Little Monke [CS] [TEST]
+Big Monke [CS] [TEST]
 Normal Monke
 
 I have added more mods if you have any problems with them tell me and I wil try to fix it. But if you get yourself banned while using this menu that is not my fault because you are using the menu in a non modded lobby so be careful with this menu.
