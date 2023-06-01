@@ -12,13 +12,11 @@ RGB Platforms
 Thumb Platforms
 Sticky Platforms
 TP Gun [D?]
-GhostMonke [T]
+GhostMonke
 Trigger Platforms
 SlingShot
 Fly
 ESP [D?]
-DuckSpammer [W?]
-KeySpammer [W?]
 Little Monke [CS] [W?]
 Big Monke [CS] [W?]
 Normal Monke
